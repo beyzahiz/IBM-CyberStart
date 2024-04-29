@@ -1,0 +1,17 @@
+Genel Kültür:
+1950'lerde COBOL, FORTRAN ve BASIC gibi diller geliştirildi.
+1960'ların ve 1970'lerin ardından C ve Pascal gibi diller ortaya çıktı. 
+1980'lerde C++ ve Java gibi diller ortaya çıktı.
+2000'lerde, web uygulamalarının yükselmesiyle JavaScript ve PHP gibi diller popüler oldu. Ayrıca Python ve Ruby gibi diller de büyük bir popülerlik kazandı.
+
+Temel Bilgisayar Bilimi Terimleri:
+Bilgisayar: Girdileri işleyen ve çıktıları üreten elektronik bir cihazdır. İşlemci, bellek, depolama ve giriş/çıkış aygıtlarından oluşur.
+İşletim Sistemi: Bilgisayarın tüm kaynaklarını yöneten ve uygulama yazılımlarının çalışmasını sağlayan bir yazılımdır. Örnek olarak, Windows ve macOS.
+Programlama Dili: Bilgisayarın anlayabileceği bir formatta yazılmış talimatları işleyerek belirli bir görevi yerine getirir. Örnek olarak, Java ve Python.
+Algoritma: Belirli bir problemin çözümü için tasarlanmış adımlar kümesidir. Bilgisayarlar, algoritmalara dayalı olarak çalışırlar. 
+Veri: Belirli bir anlam taşıyan bilgi öğeleridir. Bilgisayarlar, verileri işleyerek kullanıcıların ihtiyaçlarına yanıt verirler.
+Veritabanı: Bir dizi verinin saklandığı ve yönetildiği bir yapıdır. Veritabanları, kullanıcıların verileri kolayca erişebilmelerini ve işlemelerini sağlar.
+Donanım: Donanım, bilgisayarın fiziksel bileşenlerini ifade eder. İşlemci, bellek, depolama aygıtları ve giriş/çıkış aygıtları donanım örnekleri arasındadır.
+Yazılım: Yazılım, bilgisayarın çalışmasını sağlayan programlar ve uygulamaların tümüdür. Örnek olarak, işletim sistemleri ve uygulama yazılımları verilebilir.
+
+
