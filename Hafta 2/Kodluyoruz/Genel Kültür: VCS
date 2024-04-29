@@ -1,0 +1,14 @@
+VCS, yazılım geliştirme sürecinde kullanılan bir sistemdir ve kodun değişikliklerini takip ederek kodun tarihçesini ve farklı sürümlerini yönetir. 
+Varsayalım, bir yazılım geliştirme ekibi bir proje üzerinde çalışıyor. 
+Her ekip üyesi, kendi bilgisayarında projenin kodunu düzenliyor ve değişiklikler yapıyor. 
+Ancak bu değişikliklerin birbirinden bağımsız şekilde yapılması, zamanla problemlere neden olabilir. 
+Bir üyenin yaptığı değişiklikler, diğer üyelerin yaptığı değişiklikleri etkileyebilir veya karşıt olabilir. 
+İşte tam burada VCS devreye girer.
+
+VCS, kodun tarihçesini takip ederek, değişikliklerin hangi tarihte, kim tarafından ve hangi nedenle yapıldığını kaydeder. 
+Bu sayede, değişikliklerin geri alınması veya karşılaştırılması daha kolay olur. 
+Ayrıca VCS, farklı sürümleri yönetir. Yeni bir değişiklik yapıldığında, VCS, projenin bir sonraki sürümünü oluşturur ve bu sürüme yeni değişiklikleri ekler. 
+Bu sayede, proje farklı sürümleri ile yönetilebilir. 
+
+Git adı verilen bir VCS aracı, çok popüler bir araçtır. Git, yazılım geliştirme ekiplerinin, projelerini kaynak kodlarını takip edebilmeleri için kullanılır.
+
