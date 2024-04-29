@@ -1,0 +1,50 @@
+* Temiz kodun önemi, yazılım geliştirmenin sadece kodu yazmak olmadığı gerçeğinden kaynaklanır. 
+Kodun yazılmasından sonra, onu okuma, anlama, değiştirme ve bakımını yapma işlemi başlar. 
+Kod, bir kez yazılır ancak çok sayıda kez okunur. 
+Kodun okunabilirliği ve anlaşılırlığı, kodu yazan kişi ile aynı olmayan kişiler tarafından anlaşılmasını kolaylaştırır. 
+Dolayısıyla, temiz bir kod yazmak, projenin sağlıklı bir şekilde ilerlemesini ve geliştirilmesini sağlar.
+
+* Peki neden değişken isimlendirme bu kadar önemli? 
+İyi bir değişken ismi, kodun okunabilirliğini artırır ve hataların oluşmasını azaltır.
+
+Etkili bir değişken isimlendirme için bazı temel kurallar:
+- Anlamlı ve Açık İsimlendirme: İsimler, değişkenin neyi temsil ettiğini anlamanıza yardımcı olmalıdır. Örnek: x ve y yerine boy ve kilo gibi isimler daha anlamlıdır.
+- Değişken İsmi Ne Kısa Ne Uzun Olmalı: Kısa isimler genellikle anlamı belirsizken, çok uzun isimler okunabilirliği azaltır. Örnek: kilometreSayisi (anlamlı ve okunabilir)
+- Jargon Kullanmayın: Jargon, yalnızca belirli bir grup insan tarafından anlaşılan teknik dildir. 
+Kodunuz başkaları tarafından okunacaksa, değişken isimlerinde jargon kullanmaktan kaçının. Örnek: aramaMotoruSiralamasi (bu isim, değişkenin neyi temsil ettiğini açıkça gösterir)
+- Standartlara Uyun: Her dilin ve projenin kendi isimlendirme standartları vardır. Bunlara uymak, kodunuzun okunabilirliğini artırır. 
+- Boolean Değerler İçin Anlamlı İsimler Kullanın: Boolean değerleri temsil eden değişkenler genellikle bir durumu ifade eder. Bu tür değişkenler için is, has, can gibi ön ekler kullanmak kodun anlaşılırlığını artırır.
+
+
+
+* Statik ve Dinamik Nedir?
+Statik ve dinamik kelimeleri, programlama dilinin türünü belirler ve kodun nasıl çalıştırıldığına işaret eder.
+
+Statik Tip
+Statik tipte, değişkenlerin türleri, değişkenler oluşturulurken belirlenir ve programın çalışma zamanı boyunca değiştirilemez. 
+Bu, hataları daha erken yakalamamızı sağlar ve derleyici optimizasyonlarına olanak sağlar. Java, C, C++ ve Swift statik tipli dillere örnektir.
+Örneğin, Java'da bir değişken tanımlarken türünü belirtmemiz gerekmektedir: int sayi = 5;
+
+Dinamik Tip
+Dinamik tipte ise, değişkenlerin türü, programın çalışma zamanında belirlenir. Bu, daha az kod yazmamıza olanak sağlar ve daha esnek olmamızı sağlar. 
+Ancak, bu esneklik tip hatalarını daha zor tespit edilebilir hale getirir. Python, Ruby, PHP ve JavaScript dinamik tipli dillere örnektir.
+Python'da bir değişkeni tanımlarken, türünü belirtmemize gerek yoktur: sayi = 5
+
+Generic Programlama Nedir?
+Generic programlama, kodun belirli türlere bağımlı olmadan çalışabilmesini sağlar. Bu, kodun tekrar kullanılabilirliğini artırır ve tip güvenliğini sağlar.
+Generic'ler, statik tipli dillerin esneklik kazanmasına yardımcı olur. Java, C#, Swift gibi dillerde Generic programlama kullanılır.
+Örneğin, Java'da bir liste oluştururken, listenin içinde ne tür bir veri tutacağını belirtmeliyiz: List<String> isimler = new ArrayList<String>();
+Ancak, bu liste sadece String türünde değerleri kabul eder. Eğer bizim bir liste oluşturmamız ve bu listenin farklı türleri kabul etmesi gerekiyorsa, generic'ler devreye girer:
+List<?> herTurluListe = new ArrayList<>();
+Bu liste her türden değeri kabul eder. Ancak unutmayın, generic programlama her ne kadar esneklik sağlasa da, gereksiz yere kullanıldığında karmaşıklığa yol açabilir.
+
+
+* Statik ve dinamik tipli dillerin her birinin kendine özgü avantajları ve dezavantajları vardır. 
+Birini diğerinden üstün olarak görmek yerine, her birinin hangi durumlarda daha iyi çalıştığını anlamak önemlidir. 
+
+* Generic programlama, doğru durumda kullanıldığında kodu daha güvenli ve yeniden kullanılabilir hale getirebilir. 
+Ancak, her durumda generic kullanmak, kodun karmaşıklığını artırabilir, okunabilirliğini azaltabilir. 
+
+
+
+
