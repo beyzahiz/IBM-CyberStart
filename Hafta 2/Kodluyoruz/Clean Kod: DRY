@@ -1,0 +1,46 @@
+DRY (Don't Repeat Yourself - Kendini Tekrarlama):
+
+* Yeniden Kullanılabilirlik Nedir?
+Yeniden kullanılabilirlik, yazdığınız kodun farklı yerlerde veya projelerde tekrar tekrar kullanılabilir olmasıdır. 
+Hem kodunuzun miktarını azaltır hem de onu daha kolay okunabilir ve bakımı yapılabilir hale getirir. 
+
+* DRY Prensibi
+DRY prensibi, "Kendini Tekrarlama" demektir.
+Aynı kod parçacığının tekrar tekrar yazılmasını önler. Kodun bakımını kolaylaştırır ve hataların oluşmasını azaltır.
+Örnek:
+void toplama() {
+    int sayi1 = 5;
+    int sayi2 = 7;
+    int sonuc = sayi1 + sayi2;
+    printf("Toplama sonucu: %d\n", sonuc);
+}
+void carpma() {
+    int sayi1 = 5;
+    int sayi2 = 7;
+    int sonuc = sayi1 * sayi2;
+    printf("Carpma sonucu: %d\n", sonuc);
+}
+int main() {
+    toplama();
+    carpma();
+    return 0;
+}
+Yukarıdaki kodda, sayi1 ve sayi2 değerleri hem toplam_sayilar hem de carpim_sayilar fonksiyonlarında aynıdır. 
+DRY prensibine aykırıdır ve aynı zamanda yeniden kullanılabilirlik prensibini de ihlal eder. 
+İdeal olarak, bu iki fonksiyonu tek bir fonksiyonda birleştirmeliyiz:
+
+void hesaplama(int sayi1, int sayi2) {
+    int toplam = sayi1 + sayi2;
+    int carpim = sayi1 * sayi2;
+    printf("Toplama sonucu: %d, Carpma sonucu: %d\n", toplam, carpim);
+}
+int main() {
+    hesaplama(5, 7);
+    return 0;
+}
+
+
+Bu kod hem daha kısa hem de daha yeniden kullanılabilir. 
+İki farklı sayı üzerinde hesaplamalar yapmak istediğimizde, sadece hesaplama fonksiyonunu yeni sayılarla çağırabiliriz. 
+Kodumuzu DRY tutar ve onu daha kolay bakım yapılabilir hale getirir.
+
