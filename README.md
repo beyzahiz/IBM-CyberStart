@@ -1,2 +1,2 @@
 # IBM-CyberStart
-IBM ile Kodluyoruz: CyberStart programından alınan notlar
+IBM ile Kodluyoruz: CyberStart programından almış olduğum notlar reposu
