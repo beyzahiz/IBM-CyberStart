@@ -1,0 +1,30 @@
+1- Java : 
+Bilgisayarlar tarafından anlaşılabilen bir programlama dilidir. 
+Karmaşık uygulamaların geliştirilmesi için kullanılan bir dildir. 
+Uygulamalar yazarken kodu bilgisayarda çalıştırmak için "Java Virtual Machine (JVM)" adı verilen bir program kullanılır. Bu sayede farklı işletim sistemlerinde çalışabilir.
+
+2- JavaScript :
+Web sayfalarında kullanılan bir programlama dilidir. 
+Sayfadaki öğeleri değiştirmek veya hareketlendirmek için kullanılır. 
+
+3- Phyton : 
+İnsanlar tarafından anlaşılabilen bir programlama dilidir. 
+Verileri analiz edebilir, bilimsel hesaplamalar yapabilir, web sayfaları oluşturabilir veya oyunlar yazabilirsiniz.
+
+4- PHP :
+Web sayfalarında dinamik içerikler oluşturmak için kullanılan bir programlama dilidir. 
+Sunucu tarafında çalıştığından, web sayfaları dinamik hale getirilebilir. 
+
+5- C :
+Bilgisayar programlamasının temellerini oluşturan bir programlama dilidir. 
+Düşük seviyeli bir dil olarak bilinir ve bilgisayar donanımına daha yakın düzeyde çalışır. Bu nedenle, C dilinde yazılan programlar genellikle yüksek performanslıdır. 
+Derlendikten sonra doğrudan makine koduna çevrildiği için, farklı işletim sistemlerinde ve donanım platformlarında çalışabilirler.
+
+6- C++ :
+Bilgisayar yazılımları ve oyunlar için yaygın olarak kullanılan bir programlama dilidir. 
+Yüksek performanslı uygulamaların geliştirilmesi için idealdir. 
+
+7- C# :
+Microsoft tarafından geliştirilmiş bir programlama dilidir. 
+Windows işletim sistemi ve Microsoft'un .NET Framework yazılım geliştirme ortamı için en uygun dillerden biridir. 
+
