@@ -1,0 +1,17 @@
+IDE :
+Yazılım geliştirme sürecini kolaylaştırmak için bir araya getirilmiş bir dizi araç ve özellikler içeren bir yazılım programıdır. 
+IDE'ler genellikle kod yazma, hata ayıklama, derleme, sürüm kontrolü gibi işlemleri tek bir yerden yönetmeyi sağlar.
+Örnek: Visual Studio
+
+Text Editör :
+Daha basit bir yazılımdır ve sadece metin düzenlemesi yapılmasına olanak sağlar.
+Genellikle kod yazma işlemi için minimalist bir ortam sunar ve genellikle daha hafif ve daha hızlıdır.
+Örnek: Notepad
+
+IDE ve Text Editör Farkı :
+Temel fark, ek işlevselliğe sahip olmalarıdır:
+IDE'ler, kod yazma sürecini daha verimli hale getirmek için bir dizi özellik ve araç sunar. 
+Örneğin, otomatik tamamlama, kod biçimlendirme vb.
+Text editörleri ise daha minimalist bir yaklaşıma sahiptir. 
+Kodunuzu temiz bir şekilde yazmanıza olanak tanırken, daha az kaynak tüketir ve daha hızlı çalışır. 
+Text editörleri, daha küçük ölçekli projelerde veya basit düzenlemeler yaparken tercih edilebilir.
