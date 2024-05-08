@@ -1,0 +1,22 @@
+Kaynak Kod :
+Bir programın yazılım dilindeki orijinal kodudur.
+
+Derleme :
+Bir programın kaynak kodunun doğrudan derleyici tarafından makine koduna dönüştürülmesiyle gerçekleştirilir. 
+Derleyici, kaynak kodu okuyarak kodu hızlı bir şekilde makine koduna çevirir. 
+Derleme sonucunda oluşan makine kodu, doğrudan bilgisayar tarafından çalıştırılabilir.
+
+Yorumlama :
+Kaynak kodunun yorumlayıcı tarafından satır satır okunarak çalıştırılmasıdır. 
+Yorumlayıcı, kaynak kodun her satırını yorumlar ve ilgili işlemleri gerçekleştirir. 
+Yorumlama işlemi sonucunda ortaya çıkan çıktı, kullanıcının görebileceği bir sonuçtur.
+
+Derleme ve yorumlama farkları : 
+- Derleme, kaynak kodunun derleyici tarafından doğrudan makine koduna dönüştürülmesiyle gerçekleştirilirken, yorumlama ise kaynak kodunun yorumlayıcı tarafından satır satır okunarak çalıştırılmasıyla gerçekleştirilir. 
+- Derlenen program, doğrudan makine kodu olarak çalıştırılabilirken, yorumlanan program ise yorumlayıcı tarafından yorumlanarak çalıştırılır. 
+- Derleme işlemi, daha uzun sürebilirken, yorumlama işlemi daha hızlı gerçekleştirilebilir.
+- Derlenen programlar, farklı platformlarda çalıştırılamazken, yorumlanan programlar, farklı platformlarda yorumlayıcı mevcut olduğu sürece çalıştırılabilir.
+
+Derleme dillerine örnek olarak C, C++, Java, C# ve Go gibi.
+Yorumlama dillerine örnek olarak Python, JavaScript, Ruby, PHP ve Perl gibi.
+
