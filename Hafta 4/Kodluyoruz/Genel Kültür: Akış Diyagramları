@@ -1,0 +1,14 @@
+Akış Diyagramı Nedir?
+Akış diyagramları, bir sistemin işleyişini veya bir algoritmanın adımlarını görsel olarak temsil eden diyagramlardır. 
+
+1- Başlangıç/Bitiş Sembolü: Programın başlangıcını veya sonunu gösterir. Tipik olarak bir oval ile temsil edilir.
+2- Giriş/Çıkış Sembolü: Kullanıcıdan bir veri alınması veya bir verinin ekrana yazdırılması gibi giriş/çıkış işlemlerini gösterir.
+Genellikle paralel kenarlarla (elmas şeklinde değil) bir dikdörtgen ile temsil edilir.
+3- Atama - İşlem Sembolü: Bir eylem veya işlemi temsil eder. Tipik olarak bir dikdörtgen ile temsil edilir.
+4- Denetim (Karar) Sembolü: Bir kararın veya şartın kontrol edildiği yeri gösterir. Genellikle bir şartın doğru mu yoksa yanlış mı olduğuna karar vermek için kullanılır.
+Elmas şeklinde bir sembol ile temsil edilir.
+5- Çıkış Sembolü: Ekrana bir çıktı(output) bastırmak veya bir log kaydetmek için kullanılır. Eğimli kenarlı bir dikdörtgen şeklinde temsil edilir.
+6-Döngü Sembolü: Belirli bir şart sağlanana kadar tekrar tekrar yapılan işlemleri temsil eder. Altıgen olarak temsil edilir.
+7- Akış Yönü: Akışın hangi yönü takip edeceğini gösteren oklar. Akışın yönüne bağlı olarak farklı yönlerde olabilir.
+8- Bağlantı Sembolü: Diyagramın farklı bir kısmına geçişi gösterir. Genellikle büyük bir diyagramı daha küçük parçalara bölmek için kullanılır.
+Küçük bir daire veya dairesel bir sembol ile temsil edilir.
