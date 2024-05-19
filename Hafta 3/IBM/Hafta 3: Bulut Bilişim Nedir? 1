@@ -1,0 +1,24 @@
+Bulut Bilişim Nedir? :
+- Bulut bilişim, bilgileri bir bilgisayarın sabit disk sürücüsü yerine internet üzerinde depolar ve işler.
+- Bulut, yerel depolamaya ve bilgisayarlara bağımlı olmak yerine çevrimdışı bilişim kaynaklarını paylaşarak, iki şeyi başarabilir:
+  -> Çok daha yüksek miktarda bilgiyi çok daha hızlı bir biçimde depolayabilir ve işleyebilir.
+  -> Sonuçları yalnızca tek bir telefona, tablete, bilgisayara ya da bir dizi yerel terminale değil, internete bağlanabilen herhangi bir aygıta aktarabilir.
+- Bir hizmet, fiziksel olarak depolama donanımının yakınında olmanızı gerektirmediği sürece, size buluttan bilgi sağlayabilir. 
+- Yanlış anlaşılmasın. Veriler yine donanım üzerinde depolanır. Ancak bu donanım, binadan ayrılmış olabilir. İki farklı biçimde olabilir:
+  -> Fiziksel sunucu: Bir kullanıcı grubu ya da veri türü için özel olarak ayrılmış bir sabit disk sürücüsü veya bellek yuvasıdır.
+  -> Sanal sunucu: Diğer bölgeleri diğer kullanıcılar tarafından paylaşılan bir fiziksel sunucu üzerinde yazılım tarafından kontrol edilen bir bölgedir. 
+Bu paylaşımın tek bir fiziksel sunucuyu çok sayıda sanal sunucuya bölmesi nedeniyle, buna sanallaştırma adı verilir.
+
+Bulut Hizmet Türleri :
+1. Genel bulutlar: Depolama ve bilgi işlem alanını paylaşır.
+Müşterilerinin düşük maliyetli bilgi işlem kaynaklarına hızla erişmelerine olanak sağlayan şirketlere aittir ve bu şirketler tarafından işletilir. 
+Kullanıcılar daha fazla güce veya depolamaya gereksinim duyduklarında ölçeklendirilmesi kolaydır.
+2. Özel bulutlar: Tek bir kuruluşun bilgilerini korur
+İlgili kuruluş ya da bir sağlayıcı tarafından barındırılıp yönetilebilir ve sunucuları kuruluşun kendi içinde veya dışında barındırılabilir. 
+Özel bulutun verileri arttıkça kuruluşun daha fazla özel sunucu eklemek zorunda kalacağı anlamına gelir. 
+Kuruluşlar, verilerinin nerede tutulduğu, nasıl organize edildiği ve nasıl korunduğu üzerinde sıkı bir kontrole sahip olmaları gerektiğinde, bir özel bulutu tercih ederler. 
+Özel bulutlar çok güvenli olabilir; ancak bunlar çok pahalıdır!
+3. Hibrit bulutlar: Depolamalarını özel dilimlere ayırır
+Hibrit bulutlar, genel ve özel kaynakları birleştirir. Her iki bulut türünün bazı özelliklerini alırlar.
+Verilerin bir kısmı özel bulutta ve bir kısmı da genel bulutta bulunur ve bunlar farklı bulut kullanım düzeyleri sunan birden çok satıcı firma tarafından sağlanır.
+
