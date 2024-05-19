@@ -1,0 +1,19 @@
+Fonksiyonel Programlama:
+Fonksiyonel programlama (FP), programların seri olarak hesaplanmış fonksiyonlar olarak görüldüğü bir paradigmadır. 
+Yan etkisiz (pure) fonksiyonlar: Fonksiyonlar, girdilerine göre çıktılar üretir ve genellikle dış dünyayla etkileşimde bulunmazlar.
+İlk-class fonksiyonlar: Fonksiyonlar, başka bir fonksiyonun çıktısı olarak kullanılabilir veya bir başka fonksiyonun girdisi olarak kullanılabilir.
+Yüksek seviye fonksiyonlar: Map, reduce, filter gibi yüksek seviye fonksiyonlar genellikle kullanılır.
+Özyineleme: Döngüler yerine genellikle özyineleme kullanılır.
+C ve Lisp gibi diller, fonksiyonel programlamaya örnek olarak verilebilir.
+
+Nesne Tabanlı Programlama:
+Nesne tabanlı programlama (OOP), programları bir dizi birbiriyle etkileşimde bulunan nesneler olarak tasarlar. 
+Sınıflar ve nesneler: Veri ve fonksiyonları bir arada tutan nesneler ve bu nesnelerin şablonları olan sınıflar bulunur.
+Kalıtım: Bir sınıfın özellikleri, başka bir sınıftan kalıtılarak yeniden kullanılabilir.
+Enkapsülasyon: Nesne, veri ve davranışları (fonksiyonlar) bir araya getirerek veriyi dış dünyadan korur.
+Polimorfizm: Nesneler, aynı arayüzü farklı şekillerde uygulayabilir.
+Java, Python ve C++ gibi diller, nesne tabanlı programlamaya örnek olarak verilebilir.
+
+Fonksiyonel programlama, durumun önemli olmadığı veya yan etkilerin minimal olduğu durumlar için genellikle daha uygundur. 
+Nesne tabanlı programlama ise genellikle büyük ve karmaşık yazılım sistemlerinde, nesneler arasındaki etkileşimi modellemek için kullanılır. 
+Ancak, modern diller genellikle birkaç paradigmayı birleştirebilen çok-paradigmali yaklaşımları benimser.
