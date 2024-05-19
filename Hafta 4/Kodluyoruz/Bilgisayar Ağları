@@ -1,0 +1,61 @@
+Bilgisayar ağları nedir?
+Bilgisayar ağları, birbiriyle iletişim kurabilen ve kaynakları paylaşabilen birden fazla bilgisayarın bir araya gelmesinden oluşur. 
+Bu ağlar, kablolu veya kablosuz bağlantılar aracılığıyla kurulabilir.
+
+Bilgisayar ağlarının faydaları nelerdir?
+Kaynak paylaşımı: Yazıcılar, tarayıcılar ve sabit diskler gibi kaynaklar ağdaki tüm bilgisayarlar tarafından kullanılabilir.
+İletişim: E-posta, anlık mesajlaşma ve video konferans gibi araçlarla ağdaki kullanıcılar birbirleriyle kolayca iletişim kurabilir.
+Dosya paylaşımı: Dosyalar ağdaki bilgisayarlar arasında kolayca paylaşılabilir.
+İnternet erişimi: Ağdaki bilgisayarlar internete erişebilir.
+
+Farklı türde bilgisayar ağları nelerdir? 
+PAN (Kişisel Alan Ağı): 10 metreye kadar olan bir alanda birbiriyle iletişim kuran cihazları kapsar. 
+LAN (Yerel Alan Ağı): Bir binada veya sınırlı bir alanda birbiriyle iletişim kuran cihazları kapsar. 
+WAN (Geniş Alan Ağı): Şehirler veya ülkeler arası gibi geniş bir alanda birbiriyle iletişim kuran cihazları kapsar. 
+MAN (Metropol Alan Ağı): Bir şehir gibi bir bölgede birbiriyle iletişim kuran cihazları kapsar. 
+
+Ağ kabloları ve konektörleri:
+Ağ kabloları, bilgisayarları ve diğer ağ cihazlarını birbirine bağlamak için kullanılır. Örn: Bir bilgisayarı bir modeme bağlamak için bir Ethernet kablosu kullanılır.
+
+Ağ kartları:
+Ağ kartları, bilgisayarların ağa bağlanmasını sağlayan donanım cihazlardır. Her bilgisayarın bir ağ kartı olması gerekir.
+Örn: Bir bilgisayara Wi-Fi ile bağlanmak için bir kablosuz ağ kartı takılır.
+
+Hub, switch ve yönlendiriciler:
+Hub'lar, birden fazla ağ cihazını birbirine bağlamak için kullanılan donanım cihazlardır. 
+Switch'ler, hub'lara benzer şekilde birden fazla ağ cihazını birbirine bağlar, ancak daha fazla özellik sunarlar. 
+Yönlendiriciler, birden fazla ağ arasında veri trafiğini yönlendirmek için kullanılır.
+Örn: Bir evdeki birden fazla bilgisayarı internete bağlamak için bir switch ve bir yönlendirici kullanılır.
+
+Modemler:
+Modemler, internet servis sağlayıcısının sinyalini bilgisayarların kullanabileceği bir sinyale dönüştüren donanım cihazlardır.
+Örnek: Bir bilgisayarı internete bağlamak için bir modem kullanılır.
+
+IP adresleri ve alt ağ maskeleri:
+IP adresleri, ağdaki her bir cihazın benzersiz bir adresini belirler.
+Alt ağ maskeleri, IP adresinin hangi kısmının ağ kimliğini ve hangi kısmının cihaz kimliğini belirlediğini gösterir.
+
+Protokol katmanları (TCP/IP modeli):
+TCP/IP modeli, ağ iletişiminin nasıl gerçekleştiğini tanımlayan bir dizi katmandan oluşur. 
+Her katman farklı bir işlevden sorumludur.
+
+DHCP ve DNS:
+DHCP, ağdaki cihazlara otomatik olarak IP adresi atayan bir hizmettir. 
+DNS, web sitesi adlarını IP adreslerine dönüştüren bir hizmettir.
+Örn: Bir bilgisayar internete bağlandığında, DHCP sunucusundan otomatik olarak bir IP adresi alır. 
+Bir web sitesine girmek istediğinde, DNS sunucusu web sitesinin adını IP adresine dönüştürür.
+
+NAT:
+NAT, birden fazla ağ cihazının tek bir IP adresi ile internete erişmesine izin veren bir teknolojidir.
+Örn: Bir evdeki birden fazla bilgisayar internete tek bir IP adresi ile erişebilir.
+
+Temel ağ güvenliği tehditleri:
+Virüsler, casus yazılımlar ve kimlik avı gibi çeşitli ağ güvenliği tehditleri vardır.
+
+Güvenlik duvarları ve antivirüs yazılımı:
+Güvenlik duvarları, izinsiz girişleri engellemek için ağdaki trafiği izleyen yazılım programlarıdır. 
+Antivirüs yazılımı, bilgisayarları virüslere karşı korumak için kullanılır.
+
+Şifreleme:
+Şifreleme, verileri yetkisiz erişime karşı korumak için kullanılır.
+
