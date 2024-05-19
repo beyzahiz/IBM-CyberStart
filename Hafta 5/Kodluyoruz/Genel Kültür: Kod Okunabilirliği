@@ -1,0 +1,20 @@
+Kodun okunabilirliği, kodun ne yaptığını ve nasıl yapıldığını anlamanızı sağlayan önemli bir beceridir.
+1- Kodun okunabilirliğini artırmak için doğru sözdizimini kullanın. 
+Girintileme yaparak blokları ve yapıları belirginleştirin. 
+Parantezleri, noktalı virgülleri ve diğer gereken sembolleri doğru şekilde kullanın.
+
+2- Değişkenlere, fonksiyonlara, sınıflara ve diğer kod yapılarına açıklayıcı isimler verin. 
+İsimler, kodun ne yaptığını anlamada büyük öneme sahiptir. 
+Anlamsız kısaltmalardan kaçının ve neyi temsil ettiklerini daha anlaşılır hale getiren isimler kullanın.
+
+3- Kodun anlaşılmasını kolaylaştırmak için yorum satırları ekleyin.
+Kodun niçin yazıldığını, belirli bir mantığı veya işleve ilişkin ayrıntıları açıklayın. 
+Yorumlar, kodun amacını ve nasıl çalıştığını netleştirmek için kullanılmalıdır.
+
+4- Kodu mantıksal bloklara bölmek, okunabilirliği artırır. İlgili işlevleri veya işlemleri gruplandırın ve bunları ayrı bloklara yerleştirin. 
+
+5- Hızlı bir şekilde çalışan ancak okunabilirliği düşük olan kod parçacıklarından kaçının. Daha temiz ve düzenli bir kod yazmaya özen gösterin.
+
+6- Kodunuzu başkalarına gösterip geri bildirim almak, kodunuzun okunabilirliğini geliştirmenize yardımcı olabilir. 
+Başkalarının nasıl anladıklarını ve neyin daha iyi olabileceğini görmek için test edin. 
+Ayrıca kodunuzun doğru çalıştığından emin olun.
