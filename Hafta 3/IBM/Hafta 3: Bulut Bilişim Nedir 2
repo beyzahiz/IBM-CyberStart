@@ -1,0 +1,27 @@
+Herhangi bir geleneksel hizmet, bulut aracılığıyla sağlanabilir.
+Bu kavram, hizmet olarak sunulan her şey ya da XaaS olarak anılır.
+
+Hizmet olarak sunulan yazılım (SaaS) :
+SaaS ile hem yazılımlar hem de veriler çevrimiçi ortamda barındırılır. 
+Kullanıcılar, neredeyse her tür işletim sistemi üzerindeki neredeyse her tür aygıtı kullanarak bir tarayıcıda oturum açabilir, ihtiyaç duydukları şeyleri girebilir ve anında sonuç alabilirler. 
+Kuruluşlarının SaaS'yi kullanmak için özel yazılımlara ihtiyacı olmadığından, uygulama satın almaları gerekmez. 
+Bunun yerine, hizmete yıllık ya da kullanıcı başına abonelik ücreti öderler.
+SaaS ifadesini duyduğunuzda, e-posta veya çevrimiçi alışveriş gibi kullanım biçimlerini düşünün.
+
+Hizmet olarak sunulan platform (PaaS) :
+Satıcı firma, PaaS ile yalnızca platformu sağlar; yani, altyapıyı, işletim sistemlerini, depolamayı ve kodun büyük bir kısmını sağlar. 
+Uygulamanın kaynaklarını ve verileri kullanıcının kuruluşu tarafından yönetilir.
+PaaS'yi duyduğunuzda, konteynerleri, veritabanlarını, çalıştırma zamanını ve entegrasyonu düşünün.
+
+Hizmet olarak sunulan altyapı (IaaS) :
+Şirketler, kendi uygulamalarını sıfırdan oluşturmak veya BT maliyetlerini düşürmek için mevcut uygulamaları bir veri merkezinden kuruluşa taşımak istediklerinde IaaS'yi tercih ederler. 
+Satıcı firma, IaaS ile donanım, yazılımlar, sunucular ve depolama gibi altyapıyı ve mimariyi sağlarken aynı zamanda yedekleme, güvenlik ve bakım gibi pahalı destek sistemlerini yönetir. 
+Bu, kuruluşun bilişim mimarisinin web üzerinde kalmasını sağlar, böylece farklı lokasyonlardaki ekipler birlikte çalışabilirler ve aynı zamanda uygulama geliştirme de şirketin kendi çevrimiçi yapısı içinde kalır.
+IaaS'yi duyduğunuzda, bilişim, depolama ve ağ kaynaklarını düşünün.
+
+Çoklu Bulut Nedir? :
+Çoklu Bulut, birden fazla genel bulutun kullanılmasını ifade eder. 
+Bir şirketin farklı genel bulutlardan farklı hizmetleri seçmesine olanak sağlar.
+Çoklu bulut, dikkatli planlama gerektirir! Bunu kullanmayı düşünen kuruluşlar, mimarisi ölçeklenebilen ve şirketin mevcut sistemleriyle entegre edilebilecek bir sağlayıcı aramalıdırlar.
+
+
