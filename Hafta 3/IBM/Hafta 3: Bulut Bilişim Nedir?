@@ -1,0 +1,41 @@
+Bulut :
+Bulut bilişimde İnternet için kullanılan bir benzetmedir ve bu bağlamda bulut bilişim ifadesi, bir tür İnternet tabanlı bilişim anlamına gelir.
+
+Bulut hizmetleri :
+Bulut hizmetleri, kullanıcılara İnternet üzerinden isteğe bağlı olarak sağlanan uygulamalar, hizmetler veya kaynaklardır. 
+
+Kümeler :
+Bilgisayar kümesi, birlikte tek, entegre bir bilgi işlem kaynağı olarak çalışabilen, birbiriyle bağlantılı bağımsız bilgisayarlardan veya sunuculardan oluşan bir toplamadır.
+
+Konteynerler :
+Konteyner, yazılımın işletim ortamları arasında taşınmasına olanak sağlayan bir "ambalajdır". 
+Konteynerler, bir işletim sisteminin özgün bir sanal eşgörünümünü yaratır ve bu eşgörünüm, bir uygulamayı aynı ortamdaki diğerlerinden ayırır. 
+Konteynerler, paylaşılan tek bir işletim sistemi içinde bir uygulamanın ayrı eşgörünümlerini çalıştırabilir.
+
+Hibrit bulut :
+Hibrit bulut, birbirinden ayrı olan, ancak verileri veya uygulamaların taşınabilir hale getiren teknoloji aracılığıyla birbirine bağlı olan geleneksel BT ile genel veya özel bulutların (veya her ikisinin) bir birleşimidir.
+
+Kubernetes :
+Kubernetes, konteynerli iş yüklerinin ve hizmetlerin yönetilmesi için açık kaynaklı bir platformdur.
+
+Şirket içi :
+Şirket içi, şirket içinde kurulan ve barındırılan bir çözümü ifade eder. Özel bulut, bir şirketin kendi veri merkezinde barındırılır.
+
+Şirket dışı :
+Farklı bir fiziksel lokasyonda bulunan özel olarak ayrılmış donanım üzerinde barındırılan bir çözüm, şirket dışı olarak anılır.
+
+Özel bulut :
+Özel bulut, yalnızca tek bir kuruluş için işletilen, şirket içindeki veya dışındaki bir bulut altyapısıdır. 
+İlgili kuruluş ya da bir üçüncü kişi tarafından yönetilebilir.
+
+Genel bulut :
+Genel bulut, genel halka ya da büyük bir endüstri grubuna açıktır ve bulut hizmetleri satan bir kuruluşa aittir ve bu kuruluş tarafından yönetilir.
+
+Sanallaştırma :
+Sanallaştırma, bir sunucu, masaüstü, depolama aygıtı, işletim sistemi veya ağ kaynakları gibi bir şeyin sanal (gerçek yerine) sürümünün oluşturulmasını ifade eder.
+
+Sanal makine :
+Sanal makine (VM), uygulamaları ve programları çalıştırabilen ayrı bir bilgisayar gibi davranan bir yazılım programı veya işletim sistemidir.
+
+İş yükü :
+İş yükü, bir web sitesinin sunulması gibi, bulut üzerinde çalıştırılacak ayrı bir yetenek ya da bir miktar iştir.
