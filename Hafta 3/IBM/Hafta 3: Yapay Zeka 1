@@ -1,0 +1,28 @@
+Yapay Zeka Türleri :
+- Zayıf Yapay Zeka: Zayıf yapay zeka, dar bir çerçevede belirlenmiş işlerde insanlardan daha iyi performans gösterir.
+Zayıf yapay zeka, dar bir çerçevede belirlenmiş işlerde insanlardan daha iyi performans gösterir.
+- Artırılmış Zeka: insan zekasına yönelik tamamlayıcı bir rol üstlenerek, insanların daha iyi karar almalarına yardımcı olur. 
+İnsanların yerini almaz. Bunun yerine, uzmanlıklarını geliştirir ve verimliliklerini artırır.
+artırılmış zeka insanların gerçekleştirdikleri görevlerde daha hızlı ve akıllı olmalarına yardımcı olur.
+- Genel Yapay Zeka: Genel yapay zeka henüz icat edilmedi. 
+Ancak icat edildiğinde, bir makinenin düşünüp birçok farklı konuda karar alabildiği bir tür "tam beyin emülasyonu" olacak. 
+Bir yandan büyük şehirleri veya uzay gemilerini yönetirken, bir yandan da birçok konuda insanlarla konuşan, bilim kurgu videolarında gördüğünüz türden bilgisayarlara güç verecek. 
+Bugün, genel yapay zeka pratik bir teknolojiden ziyade bir hedef. 
+
+Yapay Zeka :
+Yapay zeka, genellikle insan zekasıyla ilişkilendirilen yetenekleri kullanan makineleri tanımlar. 
+Günümüzdeki yapay zeka çalışmaları; öğrenme, mantık yürütme, sorun çözme, algılama ve insan dilini anlamaya odaklanır. 
+
+Makine Öğrenimi :
+Makine öğrenimi (ML), verilerden öğrenmek için algoritmaları kullanır.
+Bir veri girişiyle, makine öğrenimi bir çıktıya ulaşmak için istatistik analizi gerçekleştirebilir. 
+Makine öğrenimi; analiz, kendi kendini eğitme, gözlem ve deneyim gibi insan benzeri özellikleri kullanarak, özel olarak programlanmadan öğrenebilir.
+Makine öğrenimi, daha fazla veriye maruz bırakıldığında kendi kendini düzenleme yetisidir.
+Dinamiktir ve değişiklik yapmak için insan müdahalesine gerek duymaz.
+Makine öğrenimi; gözetim altında öğrenim, gözetimsiz öğrenim ve pekiştirme öğrenimi olmak üzere üç türe sahiptir. Bu üç algoritma türüne dayanır.
+
+Derin Öğrenme :
+Derin öğrenme (DL), problem çözerken istatistik modellerine odaklanan bir makine öğrenimi alt kategorisidir. 
+Binlerce kez görevleri tekrar tekrar yerine getirip sonucu iyileştirmek adına her seferinde biraz değiştirerek karmaşık problemleri çözmek için insan beyninden ilham alan algoritmalardan oluşan yapay bir sinir ağı kullanır. 
+Derin öğrenme büyük veri ve devasa bir bilişim gücü gerektirir, ancak genel yapay zeka hedefine giden yolda muazzam bir potansiyele sahiptir.
+Derin öğrenme, sürücüsüz araçların arkasındaki, bilgisayarın bir Dur işaretini tanımasını veya bir yayayı trafik ışığından ayırmasını sağlayan teknolojidir.
