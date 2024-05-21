@@ -1,0 +1,40 @@
+Algoritma :
+Veri bilimcileri tarafından yazılan ve makineye bir soruna nasıl çözüm bulabileceğini söyleyen matematiksel yönergelerdir. 
+
+Sohbet Robotu :
+Özellikle internet üzerinden olmak üzere insan kullanıcılarla konuşmayı simüle etmek üzere tasarlanmış bir bilgisayar programıdır. 
+Metin mesajları veya ses yoluyla bizimle iletişim kuran ve web siteleri, uygulamalar veya anında mesajlaşma uygulamalarına sanal bir eşlikçi olarak entegre edilen bir asistandır.
+
+Veri :
+Veriler, yapay zekayı besler. Yapay zeka sistemlerinin örüntüleri, eğilimleri ve ilişkilendirmeleri güvenilir bir şekilde ortaya koymasına olanak tanırlar.
+
+Doğal Dilde İşleme :
+bir bilgisayar programının konuşulduğu şekilde insan dilini anlayabilme yeteneğidir. 
+NLP, bilgisayarları gazeteler ve konuşmalar gibi büyük miktarda insan metnini işleyerek ilgili verilerin niyetini ve anlamını kavramak üzere eğitebilir. 
+NLP sayesinde bir makine, insanlara nüans ve anlayışla yanıt verebilir. 
+Müşteri hizmetleri sohbet robotu, yaygın bir NLP örneğidir.
+
+Sinir Ağları :
+Sinir ağları, makine öğrenimi modellerinden oluşan gruplardır. 
+İnsan beyninin yoğun bir şekilde birbirine bağlı olan hücrelerini simüle ederler.
+Nesneleri öğrenebilir, örüntüleri tanıyabilir ve açık bir şekilde programlanmalarına gerek olmadan karar verebilirler. 
+Sinir ağları, hiçbir insanın analizini programlayamayacağı kadar karmaşık veriler içerisinde örüntüleri bulabilir.
+
+Pekiştirme Öğrenimi :
+Pekiştirme öğrenimi,  makineye etiketli veya etiketsiz herhangi bir veri vermeyen bir makine öğrenimi modelidir. 
+Bunun yerine makine, farklı eylemler dener ve doğru hamleleri yaptığında ödül sinyalleri alır. 
+Bu şekilde sistem, insan çabasına gerek olmadan bir sorunu çözmek üzere eğitilir.
+
+Konuşma Tanıma :
+Konuşma tanıma, konuşulan kelimeleri tanıyan ve ardından bu kelimeleri metne dönüştüren veya konuşulan bir komutu yerine getiren bir teknolojidir.
+
+Gözetim Altında Öğrenim :
+Gözetim altında öğrenim, makineye bir insan tarafından etiketlenmiş oldukça doğru bir veri seti sunan bir makine öğrenimi modelidir.
+
+Gözetimsiz Öğrenim :
+Gözetimsiz öğrenim, yapay zekaya herhangi bir etiketlenmiş veri sunmayan bir makine öğrenimi modelidir.
+Bunun yerine yapay zekaya etiketlenmemiş veriler sunar, yapay zeka ise bu verileri kümeleyip organize etmenin çeşitli yollarını önerir. 
+
+Görsel Tanıma :
+Görsel tanıma (aynı zamanda bilgisayarla görme olarak da bilinir), bilgisayarları fotoğraf ve videoları anlayıp yorumlamaları için eğitmeye odaklanan bir yapay zeka alt alanıdır. 
+Görsel tanıma modelleri; bir görseldeki nesneleri, insanları veya bireysel özellikleri nasıl tanıyacağını öğrenir. 
